@@ -14,7 +14,7 @@ def hello_http(request):
     request_args = request.args
     
     if not request_json or 'prompt' not in request_json or 'id' not in request_json:
-        return "Invalid request", 400
+        return "Invalid requt", 400
 
     prompt, user_id = request_json["prompt"], request_json["id"]
     
