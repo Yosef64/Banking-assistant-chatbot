@@ -1,0 +1,5 @@
+functions-framework==3.*
+google-generativeai
+pandas
+google-cloud-storage
+PyPDF2

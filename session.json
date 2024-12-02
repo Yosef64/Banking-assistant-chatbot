@@ -1,0 +1,6 @@
+{
+    "1":[
+        {"role": "user", "parts": "Hello"},
+        {"role": "model", "parts": "Great to meet you. What would you like to know?"}
+    ]
+}
